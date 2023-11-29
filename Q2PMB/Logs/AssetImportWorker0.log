@@ -307,3 +307,100 @@ Received Import Request.
   path: Packages/com.unity.render-pipelines.high-definition/Editor/SceneTemplates/OutdoorsDXR/Sky and Fog Settings Profile.asset
   artifactKey: Guid(902eabda182d3f24f8feba509c47cebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Packages/com.unity.render-pipelines.high-definition/Editor/SceneTemplates/OutdoorsDXR/Sky and Fog Settings Profile.asset using Guid(902eabda182d3f24f8feba509c47cebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f89d64e33de93e0d2b1e80b2851e72b') in 0.002830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 575.585860 seconds.
+  path: Assets/HDRPDefaultResources
+  artifactKey: Guid(66ee5e9b11c8306458e719705d091832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HDRPDefaultResources using Guid(66ee5e9b11c8306458e719705d091832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72f8bc99932e8efd1873e4e0909d264') in 0.007173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.681180 seconds.
+  path: Assets/Marcus
+  artifactKey: Guid(b6439a132f2175c4c8cda1f98300bf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus using Guid(b6439a132f2175c4c8cda1f98300bf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd56a6243168dd6e483f09700394c429') in 0.008165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.312845 seconds.
+  path: Assets/Marcus/MarcusScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/MarcusScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2763bd42d7e10165ff1da57df3c49631') in 0.007697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.071729 seconds.
+  path: Assets/Marcus/PostProcessing
+  artifactKey: Guid(d763828d9477dff4c81cffd9383fd8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/PostProcessing using Guid(d763828d9477dff4c81cffd9383fd8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70354bdb79f03d3d9147dd9d7fc94adc') in 0.006327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.803497 seconds.
+  path: Assets/Marcus/PostProcessing/Desert.asset
+  artifactKey: Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/PostProcessing/Desert.asset using Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd92a268fb0db7a0dbc109f6502a94b0f') in 0.007407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.163517 seconds.
+  path: Assets/Marcus/PostProcessing/Desert.asset
+  artifactKey: Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/PostProcessing/Desert.asset using Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '172daa46820dcad4d1af18fb65ee5ae2') in 0.002625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.762194 seconds.
+  path: Assets/Marcus/PostProcessing/Desert.asset
+  artifactKey: Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/PostProcessing/Desert.asset using Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '533b581ddce764322976ec31c4347968') in 0.001858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.490530 seconds.
+  path: Assets/Marcus/PostProcessing/Desert.asset
+  artifactKey: Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/PostProcessing/Desert.asset using Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e33c44c92aec3ca036e9d41f7eafdd9d') in 0.001749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.597369 seconds.
+  path: Assets/Marcus/PostProcessing/Desert.asset
+  artifactKey: Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/PostProcessing/Desert.asset using Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '502702a8027476136364abea7fdd8c4c') in 0.001929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.245091 seconds.
+  path: Assets/Marcus/PostProcessing/Desert.asset
+  artifactKey: Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/PostProcessing/Desert.asset using Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5987c5ba04547906a6b5d268964e3d6') in 0.001939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58.857688 seconds.
+  path: Assets/Marcus/PostProcessing/Desert.asset
+  artifactKey: Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/PostProcessing/Desert.asset using Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd8c2a598fa651fddd9b8419c484996') in 0.002062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.209342 seconds.
+  path: Assets/Marcus/PostProcessing/Desert.asset
+  artifactKey: Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/PostProcessing/Desert.asset using Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '457918f17098de3cc0604c45987afe09') in 0.003161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.078804 seconds.
+  path: Assets/Marcus/PostProcessing/Desert.asset
+  artifactKey: Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/PostProcessing/Desert.asset using Guid(0d126139bedcf4b4dbeb9ec01cbd47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f216b5a14acf7c9ab35ce72bfedacc26') in 0.002127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.400659 seconds.
+  path: Assets/Marcus/Test_Env
+  artifactKey: Guid(fc8a3ed51581215439f1ede38047fd7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/Test_Env using Guid(fc8a3ed51581215439f1ede38047fd7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3baf8d7af0bd1e842ca6c40b33bd144b') in 0.006274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.213094 seconds.
+  path: Assets/Marcus/Test_Env/Sand.mat
+  artifactKey: Guid(71e06ee77fc2a1644bf00e61f42508c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/Test_Env/Sand.mat using Guid(71e06ee77fc2a1644bf00e61f42508c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe037c1a64a6e8c5b934797d00a6261') in 1.631642 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.024572 seconds.
+  path: Assets/Marcus/Test_Env/Sand.mat
+  artifactKey: Guid(71e06ee77fc2a1644bf00e61f42508c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Marcus/Test_Env/Sand.mat using Guid(71e06ee77fc2a1644bf00e61f42508c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50663a057bdb4c47ab9d6ace15207f79') in 0.018586 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
